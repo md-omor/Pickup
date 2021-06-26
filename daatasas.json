@@ -1,0 +1,167 @@
+[
+    {
+      "code": "CY943GM", // Vehecel info
+      "driverName": "OULD ALI JEAN-LUC", // Driver Name
+      "trips": 1, // Trip #
+      "stops": 2,
+      "docdate": "2021-06-13T18:15:00.000+00:00",
+      "site": "SORME",
+      "itemCode": "WVR-210614-SORME-001", // Trip id
+      "driverId": "95",
+      "arrSite": "SORME",
+      "depsiteLat": "1.789202", // start Map lat
+      "depsiteLng": "47.9445", //  start Map lng
+      "depSite": "SORME",
+      "arrsiteLat": "1.789202", // end  location lat
+      "arrsiteLng": "47.9445", // end location lng
+      "totalWeight": "4 KG",
+      "totalVolume": "3 M3",
+      "weightPercentage": 0,
+      "volumePercentage": 0,
+      "startTime": "05:30", // Deperture time
+      "endTime": "16:56", // Araival time
+      "capacities": "20000",
+      "uomTime": "Hr",
+      "totalTime": "11.931666666666667",
+      "travelTime": "08:13",
+      "serviceTime": "2.2",
+      "uomDistance": "Kms",
+      "totalDistance": "658.403",
+      "heuexec": "18:24",
+      "datexec": "2021-06-14T16:09:39.857+00:00",
+      "adeptime": null,
+      "areturntime": null,
+      "totalObject": {
+        "timelineInterval": [
+          {
+            "value": 0,
+            "label": "05:30"
+          },
+          {
+            "value": 12,
+            "label": "11:48"
+          },
+          {
+            "value": 24,
+            "label": "12:54"
+          },
+          {
+            "value": 36,
+            "label": "16:56"
+          }
+        ],
+        "selectedTripData": [
+          {
+            "site": "SORME",
+            "docnum": "BDL2106SORME000066",
+            "docdate": "2021-06-09 00:00:00.0",
+            "dlvystatus": "0",
+            "doctype": "DLV",
+            "bpcode": "T000472",
+            "bpname": "CARTONNAGE DE L''''''''''''''''ATLANTIQUE",
+            "netweight": 0,
+            "weightunit": " ",
+            "volume": 0,
+            "volume_unit": " ",
+            "poscode": "44860",
+            "city": "ST AIGNAN GRANDLIEU",
+            "lat": 47.1512800115865, // First customer lat
+            "lng": -1.590880025919006, // First customer  lng
+            "schedtype": 0,
+            "type": "open",
+            "products": [
+              {
+                "productCode": "BENNE00001",
+                "productName": "798789787098709",
+                "productCateg": "RENTE",
+                "quantity": "1.0",
+                "uom": "UN",
+                "docLineNum": null
+              }
+            ],
+            "pairedDoc": " ",
+            "serviceTime": "1.1000",
+            "logisticDetails": "LoadBay : Yes\nTailGate : No\nBP ServiceTime : 60 Mins\nWaitingTime : 60 Mins\nStackHeight : 0.0 Cms\nVehicle Type : \nTimings :  \nPacking : \nHeight : \nLoadingOrder : \n",
+            "loadBay": "Yes",
+            "tailGate": "No",
+            "loadingOrder": "",
+            "packing": "",
+            "stackHeight": "0.000",
+            "height": "",
+            "timings": " ",
+            "waitingTime": "1.000",
+            "bpserviceTime": "1",
+            "dropped": false,
+            "isDropped": true,
+            "vehicleCode": "CY943GM",
+            "panelType": "drop", // Drop or pickup
+            "lock": false,
+            "start": "Mon Jun 14 2021 05:30:39",
+            "distance": 336.668,
+            "time": "4.192",
+            "serTime": "01:06", // First drop or pickup service time
+            "tTime": 15090,
+            "tDistance": 336668,
+            "end": "11:48", // First drop or pickup end the time 
+            "arrival": "09:42" // First trip araivall time
+          },
+          {
+            "site": "SORME",
+            "docnum": "REC2106-00001198",
+            "docdate": "2021-06-09 00:00:00.0",
+            "dlvystatus": "8",
+            "doctype": "PRECEIPT",
+            "movtype": "PICK",
+            "bpcode": "T000472",
+            "bpname": "CARTONNAGE DE L''''''''''''''''ATLANTIQUE",
+            "netweight": 4,
+            "weightunit": "KG",
+            "volume": 3,
+            "volume_unit": "M3",
+            "poscode": "44860",
+            "city": "ST AIGNAN GRANDLIEU",
+            "lat": 47.1512800115865, // secend customar lat pickup
+            "lng": -1.590880025919006, // secend customar lng pickup
+            "products": [
+              {
+                "productCode": "PALETTES",
+                "productName": " ",
+                "productCateg": "PALIN",
+                "quantity": "1.0",
+                "uom": "UN",
+                "docLineNum": null
+              }
+            ],
+            "type": "open",
+            "pairedDoc": " ",
+            "serviceTime": "1.1000",
+            "logisticDetails": "LoadBay : No\nTailGate : No\nBP ServiceTime : 0 Mins\nWaitingTime : 0 Mins\nStackHeight : 0.0 Cms\nVehicle Type : \nTimings : \nPacking : \nHeight : \nLoadingOrder : \n",
+            "waitingTime": "0.000",
+            "loadBay": "No",
+            "tailGate": "No",
+            "loadingOrder": "",
+            "packing": "",
+            "stackHeight": "0.000",
+            "height": "",
+            "timings": "",
+            "bpserviceTime": "0",
+            "dropped": false,
+            "vehicleCode": "CY943GM",
+            "panelType": "pickup", // pick up (p ) simbol  
+            "lock": false,
+            "start": "Mon Jun 14 2021 11:48:09",
+            "distance": 0,
+            "time": "0.000",
+            "serTime": "01:06", // Service time at secend customer
+            "tTime": 0,
+            "tDistance": 0,
+            "end": "12:54", //  Secend customer departure time
+            "arrival": "11:48" //  Secend customer arraival time *  /
+          }
+        ],
+        "equipments": [],
+        "trailers": [],
+        "quantities": []
+      }
+    }
+  ]

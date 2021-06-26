@@ -1,0 +1,414 @@
+[
+    {
+       "code":"CY943GM",
+       "driverName":"OULD ALI JEAN-LUC",
+       "trips":1,
+       "stops":2,
+       "docdate":"2021-06-13T18:15:00.000+00:00",
+       "site":"SORME",
+       "itemCode":"WVR-210614-SORME-001",
+       "driverId":"95",
+       "arrSite":"SORME",
+       "depsiteLat":"1.789202",
+       "depsiteLng":"47.9445",
+       "depSite":"SORME",
+       "arrsiteLat":"1.789202",
+       "arrsiteLng":"47.9445",
+       "totalWeight":"4 KG",
+       "totalVolume":"3 M3",
+       "weightPercentage":0.0,
+       "volumePercentage":0.0,
+       "startTime":"05:30",
+       "endTime":"16:56",
+       "capacities":"20000",
+       "uomTime":"Hr",
+       "totalTime":"11.931666666666667",
+       "travelTime":"08:13",
+       "serviceTime":"2.2",
+       "uomDistance":"Kms",
+       "totalDistance":"658.403",
+       "heuexec":"18:24",
+       "datexec":"2021-06-14T16:09:39.857+00:00",
+       "adeptime":null,
+       "areturntime":null,
+       "totalObject":{
+          "timelineInterval":[
+             {
+                "value":0,
+                "label":"05:30"
+             },
+             {
+                "value":12,
+                "label":"11:48"
+             },
+             {
+                "value":24,
+                "label":"12:54"
+             },
+             {
+                "value":36,
+                "label":"16:56"
+             }
+          ],
+          "selectedTripData":[
+             {
+                "site":"SORME",
+                "docnum":"BDL2106SORME000066",
+                "docdate":"2021-06-09 00:00:00.0",
+                "dlvystatus":"0",
+                "doctype":"DLV",
+                "bpcode":"T000472",
+                "bpname":"CARTONNAGE DE L''''''''''''''''ATLANTIQUE",
+                "netweight":0,
+                "weightunit":" ",
+                "volume":0,
+                "volume_unit":" ",
+                "poscode":"44860",
+                "city":"ST AIGNAN GRANDLIEU",
+                "lat":47.1512800115865,
+                "lng":-1.590880025919006,
+                "schedtype":0,
+                "type":"open",
+                "products":[
+                   {
+                      "productCode":"BENNE00001",
+                      "productName":"798789787098709",
+                      "productCateg":"RENTE",
+                      "quantity":"1.0",
+                      "uom":"UN",
+                      "docLineNum":null
+                   }
+                ],
+                "pairedDoc":" ",
+                "serviceTime":"1.1000",
+                "logisticDetails":"LoadBay : Yes\nTailGate : No\nBP ServiceTime : 60 Mins\nWaitingTime : 60 Mins\nStackHeight : 0.0 Cms\nVehicle Type : \nTimings :  \nPacking : \nHeight : \nLoadingOrder : \n",
+                "loadBay":"Yes",
+                "tailGate":"No",
+                "loadingOrder":"",
+                "packing":"",
+                "stackHeight":"0.000",
+                "height":"",
+                "timings":" ",
+                "waitingTime":"1.000",
+                "bpserviceTime":"1",
+                "dropped":false,
+                "isDropped":true,
+                "vehicleCode":"CY943GM",
+                "panelType":"drop", 
+                "lock":false,
+                "start":"Mon Jun 14 2021 05:30:39",
+                "distance":336.668,
+                "time":"4.192",
+                "serTime":"01:06",
+                "tTime":15090,
+                "tDistance":336668,
+                "end":"11:48",
+                "arrival":"09:42"
+             },
+             {
+                "site":"SORME",
+                "docnum":"REC2106-00001198",
+                "docdate":"2021-06-09 00:00:00.0",
+                "dlvystatus":"8",
+                "doctype":"PRECEIPT",
+                "movtype":"PICK",
+                "bpcode":"T000472",
+                "bpname":"CARTONNAGE DE L''''''''''''''''ATLANTIQUE",
+                "netweight":4,
+                "weightunit":"KG",
+                "volume":3,
+                "volume_unit":"M3",
+                "poscode":"44860",
+                "city":"ST AIGNAN GRANDLIEU",
+                "lat":47.1512800115865,
+                "lng":-1.590880025919006,
+                "products":[
+                   {
+                      "productCode":"PALETTES",
+                      "productName":" ",
+                      "productCateg":"PALIN",
+                      "quantity":"1.0",
+                      "uom":"UN",
+                      "docLineNum":null
+                   }
+                ],
+                "type":"open",
+                "pairedDoc":" ",
+                "serviceTime":"1.1000",
+                "logisticDetails":"LoadBay : No\nTailGate : No\nBP ServiceTime : 0 Mins\nWaitingTime : 0 Mins\nStackHeight : 0.0 Cms\nVehicle Type : \nTimings : \nPacking : \nHeight : \nLoadingOrder : \n",
+                "waitingTime":"0.000",
+                "loadBay":"No",
+                "tailGate":"No",
+                "loadingOrder":"",
+                "packing":"",
+                "stackHeight":"0.000",
+                "height":"",
+                "timings":"",
+                "bpserviceTime":"0",
+                "dropped":false,
+                "vehicleCode":"CY943GM",
+                "panelType":"pickup", 
+                "lock":false,
+                "start":"Mon Jun 14 2021 11:48:09",
+                "distance":0,
+                "time":"0.000",
+                "serTime":"01:06",
+                "tTime":0,
+                "tDistance":0,
+                "end":"12:54",
+                "SubArrival":"11:48"
+             }
+          ],
+          "equipments":[
+             
+          ],
+          "trailers":[
+             
+          ],
+          "quantities":[
+             
+          ]
+       },
+       "color":";font-style:normal;background-color:#B0FFB0"
+    },
+
+
+
+
+    
+    {
+       "code":"EN179SEYY",
+       "driverName":"LIES MOUCHAOUI",
+       "trips":1,
+       "stops":3,
+       "docdate":"2021-06-13T18:15:00.000+00:00",
+       "site":"SBRUZ",
+       "itemCode":"WVR-210614-SBRUZ-001",
+       "driverId":"1105",
+       "arrSite":"SHERV",
+       "depsiteLat":"-1.7468999999999255",
+       "depsiteLng":"48.02164855200004",
+       "depSite":"SBRUZ",
+       "arrsiteLat":"-3.2623173",
+       "arrsiteLng":"48.74605",
+       "totalWeight":"5 KG",
+       "totalVolume":"3000 L",
+       "weightPercentage":0.0,
+       "volumePercentage":12.7,
+       "startTime":"07:15",
+       "endTime":"11:14",
+       "capacities":"55115",
+       "uomTime":"Hr",
+       "totalTime":"4.242222222222222",
+       "travelTime":"03:41",
+       "serviceTime":"0.30000000000000004",
+       "uomDistance":"Kms",
+       "totalDistance":"190.174",
+       "heuexec":"16:03",
+       "datexec":"2021-06-17T13:48:27.683+00:00",
+       "adeptime":"07:15",
+       "areturntime":"11:14",
+       "totalObject":{
+          "timelineInterval":[
+             {
+                "value":0,
+                "label":"07:15"
+             },
+             {
+                "value":12,
+                "label":"09:06"
+             },
+             {
+                "value":24,
+                "label":"09:12"
+             },
+             {
+                "value":36,
+                "label":"09:58"
+             },
+             {
+                "value":48,
+                "label":"11:14"
+             }
+          ],
+          "selectedTripData":[
+             {
+                "site":"SBRUZ",
+                "docnum":"BDP2106SBRUZ000002",
+                "docdate":"2021-06-14 00:00:00.0",
+                "dlvystatus":"8",
+                "doctype":"PICK",
+                "bpcode":"T0094556",
+                "bpname":"SYSTEME U PLAINTEL",
+                "netweight":0,
+                "weightunit":" ",
+                "volume":0,
+                "volume_unit":" ",
+                "poscode":"22940",
+                "city":"PLAINTEL",
+                "lat":48.416419196,
+                "lng":-2.807389999999941,
+                "schedtype":0,
+                "type":"open",
+                "products":[
+                   {
+                      "productCode":"251624DL",
+                      "productName":"PALETTE 110 X 140 4S DL",
+                      "productCateg":"MTREL",
+                      "quantity":"60.",
+                      "uom":"UN",
+                      "docLineNum":null
+                   }
+                ],
+                "pairedDoc":" ",
+                "serviceTime":"0.1000",
+                "logisticDetails":"LoadBay : No\nTailGate : No\nBP ServiceTime : 60 Mins\nWaitingTime : 0 Mins\nStackHeight : 0.0 Cms\nVehicle Type : \nTimings :  \nPacking : \nHeight : \nLoadingOrder : \n",
+                "loadBay":"No",
+                "tailGate":"No",
+                "waitingTime":"0.000",
+                "height":"",
+                "loadingOrder":"",
+                "bpserviceTime":"1",
+                "timings":" ",
+                "packing":"",
+                "stackHeight":"0.000",
+                "dropped":false,
+                "panelType":"drop",
+                "vehicleCode":"EN179SEYY",
+                "lock":false,
+                "start":"Thu Jun 17 2021 07:15:27",
+                "distance":95.163,
+                "time":"1.750",
+                "serTime":"00:06",
+                "tTime":6299,
+                "tDistance":95163,
+                "end":"09:06",
+                "arrival":"09:00",
+                "startDate":"2021-06-14T09:17:09.000Z",
+                "endDate":"2021-06-14T09:17:09.000Z"
+             },
+             {
+                "site":"SBRUZ",
+                "docnum":"BLP2106SRPRT000201",
+                "docdate":"2021-06-14 00:00:00.0",
+                "dlvystatus":"8",
+                "doctype":"DLV",
+                "bpcode":"T009027",
+                "bpname":"VITAL CONCEPT",
+                "netweight":1,
+                "weightunit":"KG",
+                "volume":0,
+                "volume_unit":" ",
+                "poscode":"22603",
+                "city":"LOUDEAC",
+                "lat":48.15694,
+                "lng":-2.756979999999942,
+                "schedtype":0,
+                "type":"open",
+                "products":[
+                   {
+                      "productCode":"PLATE0001",
+                      "productName":"PLATE0001 Equipment",
+                      "productCateg":"MTREL",
+                      "quantity":"1.0",
+                      "uom":"UN",
+                      "docLineNum":null
+                   }
+                ],
+                "pairedDoc":"REC2106-00001301",
+                "serviceTime":"0.1000",
+                "logisticDetails":"LoadBay : No\nTailGate : No\nBP ServiceTime : 60 Mins\nWaitingTime : 0 Mins\nStackHeight : 0.0 Cms\nVehicle Type : \nTimings :  \nPacking : \nHeight : \nLoadingOrder : \n",
+                "loadBay":"No",
+                "tailGate":"No",
+                "waitingTime":"0.000",
+                "height":"",
+                "loadingOrder":"",
+                "bpserviceTime":"1",
+                "timings":" ",
+                "packing":"",
+                "stackHeight":"0.000",
+                "dropped":false,
+                "panelType":"drop",
+                "vehicleCode":"EN179SEYY",
+                "lock":false,
+                "start":"Thu Jun 17 2021 09:06:26",
+                "distance":0,
+                "time":"0.000",
+                "serTime":"00:06",
+                "tTime":0,
+                "tDistance":0,
+                "end":"09:12",
+                "subArrival":"09:06",
+                "startDate":"2021-06-14T09:17:09.000Z",
+                "endDate":"2021-06-14T09:17:09.000Z"
+             },
+             {
+                "site":"SBRUZ",
+                "docnum":"REC2106-00001301",
+                "docdate":"2021-06-14 00:00:00.0",
+                "dlvystatus":"8",
+                "doctype":"PRECEIPT",
+                "movtype":"PICK",
+                "bpcode":"T009027",
+                "bpname":"VITAL CONCEPT",
+                "netweight":4,
+                "weightunit":"KG",
+                "volume":3000,
+                "volume_unit":"L",
+                "poscode":"22603",
+                "city":"LOUDEAC",
+                "lat":48.15694,
+                "lng":-2.756979999999942,
+                "products":[
+                   {
+                      "productCode":"PALETTES",
+                      "productName":" ",
+                      "productCateg":"PALIN",
+                      "quantity":"1.0",
+                      "uom":"UN",
+                      "docLineNum":null
+                   }
+                ],
+                "type":"selected",
+                "pairedDoc":"BLP2106SRPRT000201",
+                "serviceTime":"0.1000",
+                "logisticDetails":"LoadBay : No\nTailGate : No\nBP ServiceTime : 0 Mins\nWaitingTime : 0 Mins\nStackHeight : 0.0 Cms\nVehicle Type : \nTimings : \nPacking : \nHeight : \nLoadingOrder : \n",
+                "waitingTime":"0.000",
+                "loadBay":"No",
+                "tailGate":"No",
+                "height":"",
+                "loadingOrder":"",
+                "bpserviceTime":"0",
+                "timings":"",
+                "packing":"",
+                "stackHeight":"0.000",
+                "dropped":false,
+                "vehicleCode":"EN179SEYY",
+                "panelType":"pickup",
+                "isDropped":true,
+                "lock":false,
+                "start":"Thu Jun 17 2021 09:12:26",
+                "distance":33.884,
+                "time":"0.661",
+                "serTime":"00:06",
+                "tTime":2381,
+                "tDistance":33884,
+                "end":"09:58",
+                "tharrival":"09:52",
+                "startDate":"2021-06-14T09:17:09.000Z",
+                "endDate":"2021-06-14T09:17:09.000Z"
+             }
+          ],
+          "equipments":[
+             
+          ],
+          "trailers":[
+             
+          ],
+          "quantities":[
+             
+          ]
+       },
+       "color":";font-style:normal;background-color:#E7E1CF"
+    }
+ ]
